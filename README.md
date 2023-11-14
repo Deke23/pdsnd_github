@@ -1,17 +1,20 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+14th Nov2023
 
 ### Project Title
-Replace the Project Title
+Version Control with GitHub project.
 
 ### Description
-Describe what your project is about and what it does
+This project is about implenting the concept of version control with git for the udacity programming for data science with python nanodegree.
 
 ### Files used
-Include the files used
+bikeshare.py
+data files *csv files
+.gitignore 
+Readme.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This repository was forked and cloned from the udacity repository: https://github.com/udacity/pdsnd_github
 
