@@ -113,7 +113,7 @@ def trip_duration_stats(df):
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
 
-    # Display total travel time in hours
+    # Display total travel time in hours for better lisibilty
     total_travel_time_seconds = df['Trip Duration'].sum()
     total_travel_time = pd.to_timedelta(total_travel_time_seconds, unit='s')
     print('Total travel time:', total_travel_time)
